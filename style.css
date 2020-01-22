@@ -1,0 +1,9 @@
+.hidden {
+	display: none;
+}
+th a {
+	color: inherit;
+}
+th:hover {
+	cursor:pointer;
+}
